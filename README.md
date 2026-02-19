@@ -12,6 +12,7 @@ I am a **Master of Telecommunications** candidate and **Course Assistant** at th
 - **Focus:** Agentic AI, LLM Orchestration, and MLOps.
 - **Mission:** Transitioning from building robust backends to architecting intelligent, self-evolving AI agents.
 - **Academic Role:** Course Assistant for the MDS program @ Pitt SCI.
+- **Side Kick::** I adopted a virtual Golden Retriever called Bob ([@bobtheagent](https://github.com/bobtheagent)) — my loyal bot who ships vibe-coded projects for me. 🐕
 
 ---
 
