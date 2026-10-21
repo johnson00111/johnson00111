@@ -26,7 +26,7 @@ I am a **Master of Telecommunications** candidate and **Course Assistant** at th
 - **Architectural Goal:** Transitioning from linear chains to a scalable, role-playing organizational framework.
 
 #### [agentic-ai-learning](https://github.com/johnson00111/agentic-ai-learning) `Ongoing Study`
-*A milestone-driven exploration of AI agent systems, evaluation, and improvement.*
+*A milestone-driven exploration of AI agent systems, evaluation, and improvement.）(currently private)*
 - **Research Scope:** Agent loops, Harness Design, Tool Use, and Evaluation, with planned studies in multi-agent coordination and bounded self-improvement.
 - **Current Objective:** Building on ReAct and LangGraph exercises toward a minimal coding agent, using reproducible tasks and explicit acceptance criteria.
 
